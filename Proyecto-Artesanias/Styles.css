@@ -1,0 +1,18 @@
+
+nav {
+  position: fixed top;
+  font-size: larger;
+  background-color: rgba(208, 208, 200, 0.686);
+}
+
+footer {
+  
+  position: fixed;
+  font-size: larger;
+  padding: 0%;
+  bottom: 0;
+  position: sticky;
+  left: 0;
+  width: 100%;
+  
+}
